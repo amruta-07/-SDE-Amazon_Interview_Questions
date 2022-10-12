@@ -1,2 +1,2 @@
-# -SDE-Amazon_Interview_Questions
-Daily code Practice.
+# SDE-Amazon_Interview_Questions
+Daily code Practice .
